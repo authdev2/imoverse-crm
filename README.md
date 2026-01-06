@@ -1,11 +1,16 @@
 Crm imobiliaria com site personalizado em desenvolvimento...
 
-<img width="1710" height="948" alt="image" src="https://github.com/user-attachments/assets/cf16a671-aa28-441a-9b28-2b68545a7ae2" />
-<img width="1700" height="945" alt="image" src="https://github.com/user-attachments/assets/14fee9a9-c36d-48b9-ba4b-cb57ae720814" />
-<img width="1707" height="944" alt="image" src="https://github.com/user-attachments/assets/ba847c57-1f65-46c0-987e-73a0aea5fb1b" />
-<img width="1710" height="950" alt="image" src="https://github.com/user-attachments/assets/075fb159-52c5-47ec-adee-7b73bf0b16c3" />
-<img width="1702" height="939" alt="image" src="https://github.com/user-attachments/assets/87830f1a-6a84-4425-a49d-bfe13e28cad1" />
-<img width="1708" height="953" alt="image" src="https://github.com/user-attachments/assets/116e2538-d8ee-40ee-9704-474daba16eda" />
-<img width="1710" height="948" alt="image" src="https://github.com/user-attachments/assets/7c3e9e17-02ce-4e52-a910-044ead4f2d03" />
-<img width="1703" height="950" alt="image" src="https://github.com/user-attachments/assets/119aa8eb-6c4a-4ecb-8678-d9bf532ec846" />
-<img width="1710" height="945" alt="image" src="https://github.com/user-attachments/assets/6c738180-e1da-4e83-873d-689853174980" />
+<img width="1916" height="952" alt="image" src="https://github.com/user-attachments/assets/c537c579-d652-4d71-883a-2c0aff6f0242" />
+<img width="1917" height="955" alt="image" src="https://github.com/user-attachments/assets/5dc68858-1b1c-4168-b334-3d70f96ed8aa" />
+<img width="1921" height="959" alt="image" src="https://github.com/user-attachments/assets/0d82d2f6-ade0-43e4-9ed6-0d6d19fe3f50" />
+<img width="1919" height="958" alt="image" src="https://github.com/user-attachments/assets/247fc499-5c16-446e-be4a-068b0efdf757" />
+<img width="1914" height="956" alt="image" src="https://github.com/user-attachments/assets/1db562ad-98cf-4596-a9fd-e57c27638f43" />
+<img width="1916" height="963" alt="image" src="https://github.com/user-attachments/assets/1e50bcf7-64ba-474d-a6c6-061b6644140a" />
+<img width="1914" height="950" alt="image" src="https://github.com/user-attachments/assets/e569398f-2c3f-480f-b315-b075db29b2c2" />
+<img width="1920" height="957" alt="image" src="https://github.com/user-attachments/assets/41d54ae9-f315-4dea-abae-fed39eda7cff" />
+<img width="1920" height="955" alt="image" src="https://github.com/user-attachments/assets/3ddd54e8-941e-4c49-9493-105de31d93d4" />
+<img width="1914" height="949" alt="image" src="https://github.com/user-attachments/assets/0a1a8e6c-aacb-40c2-9303-8d386234dffd" />
+<img width="1920" height="958" alt="image" src="https://github.com/user-attachments/assets/e6463864-9b78-4c95-9f7b-d4df46514fdb" />
+<img width="1921" height="956" alt="image" src="https://github.com/user-attachments/assets/5b529dff-2501-4c6e-8d3e-83585052756b" />
+<img width="1917" height="898" alt="image" src="https://github.com/user-attachments/assets/3c475eb8-c479-4662-8b9e-5109a1b12272" />
+<img width="1920" height="956" alt="image" src="https://github.com/user-attachments/assets/ae4a6f2f-e327-4b68-a927-a053cca35f2f" />
